@@ -1,0 +1,1 @@
+Домашнее задание к семинару 5 - Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehensio
